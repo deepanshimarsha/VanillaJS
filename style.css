@@ -5,3 +5,11 @@
     margin: 1rem;
     padding: 1rem ;
 }
+
+.txt-output {
+    border: 1px solid black;
+    height: 10vh;
+    width: 90%;
+    margin: 1rem;
+    padding: 1rem;
+}
